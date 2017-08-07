@@ -1,4 +1,10 @@
+Govhack Page: 
+- https://govhack.org/
+
 Grow Melbourne – A city planning for growth
+
+Challenge page: 
+- https://2017.hackerspace.govhack.org/award/grow-melbourne-city-planning-growth
 
 This challenge aims to develop innovative new ideas where data can be used to help plan for a growing city.
 Winning criteria:
@@ -11,7 +17,7 @@ c. Where are potential danger zones of high pedestrian counts combined with high
 d. Are likely routes taken by tourists between major hotels and tourism drawcards well served by wayfinding signage?
 
 Team Page:
-- https://2017.hackerspace.govhack.org/award/grow-melbourne-city-planning-growth
+- https://2017.hackerspace.govhack.org/project/managing-potential-traffic-danger-zones-growing-city
 
 Demo videos: 
 - https://drive.google.com/file/d/0B4zm7jZZLUj-dmE5TUdmcDJVNUU/view?usp=sharing
